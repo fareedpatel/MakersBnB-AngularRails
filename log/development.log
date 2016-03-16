@@ -1,0 +1,30 @@
+
+
+Started GET "/" for ::1 at 2016-03-16 11:40:44 +0100
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/Alain/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5.1/lib/rails/templates/rails/welcome/index.html.erb (17.6ms)
+Completed 200 OK in 130ms (Views: 116.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-03-16 12:41:09 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 7182ms (Views: 7170.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-730c94aaf9d47e459b5f302f80327bf190667d3268137ba21215100bc1a18c47.css?body=1" for ::1 at 2016-03-16 12:41:16 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-0a6570c8f60714fcfb2147cecaf229b5c0ffff626fe407344d3b00a2ad441b7c.js?body=1" for ::1 at 2016-03-16 12:41:16 +0100
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-03-16 12:41:16 +0100
+
+
+Started GET "/assets/angular/angular.self-670e61b742d53fbb8bfe764be7135a342d1bd238f241e5d6621e0d670e95cbb9.js?body=1" for ::1 at 2016-03-16 12:41:16 +0100
+
+
+Started GET "/assets/app.self-13bc9c264b04935052ced0d72c6a922f7c32bfa971cbf08c93cfba742377e648.js?body=1" for ::1 at 2016-03-16 12:41:16 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-03-16 12:41:16 +0100
